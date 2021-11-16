@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=jxhnn&count_private=true&show_icons=true&hide=contribs&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxhnn&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxhnn&layout=compact&theme=dark)
 
 <a href="mailto:john@atome.cc">![john@atome.cc](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
