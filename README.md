@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxhnn&layout=compact&theme=dark)
 
-<a href="mailto:john@atome.cc">![john@atome.cc](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+Contact me on : <a href="mailto:john@atome.cc">![john@atome.cc](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
